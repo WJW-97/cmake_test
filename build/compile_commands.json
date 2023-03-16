@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++2a -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\Users\\wujiewen\\Desktop\\wjw\\cmake\\template\\cmake_test\\src\\main.cpp",
+  "file": "D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/src/main.cpp"
+},
+{
+  "directory": "D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/src/lib",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dmath_EXPORTS  -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++2a -o CMakeFiles\\math.dir\\math.cpp.obj -c D:\\Users\\wujiewen\\Desktop\\wjw\\cmake\\template\\cmake_test\\src\\lib\\math.cpp",
+  "file": "D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/src/lib/math.cpp"
+}
+]

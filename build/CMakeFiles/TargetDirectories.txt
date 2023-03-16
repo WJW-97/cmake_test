@@ -1,0 +1,8 @@
+D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/CMakeFiles/edit_cache.dir
+D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/CMakeFiles/rebuild_cache.dir
+D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/src/CMakeFiles/main.dir
+D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/src/CMakeFiles/edit_cache.dir
+D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/src/CMakeFiles/rebuild_cache.dir
+D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/src/lib/CMakeFiles/math.dir
+D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/src/lib/CMakeFiles/edit_cache.dir
+D:/Users/wujiewen/Desktop/wjw/cmake/template/cmake_test/build/src/lib/CMakeFiles/rebuild_cache.dir
